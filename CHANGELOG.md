@@ -1,4 +1,9 @@
 # Changelog
 
-## 2025-10-09
+  ## 2025-10-09 — Privacy Policy
+  *   Added our current policy to GitHub
+
+  ###### Updated by Josh (Privacy Policy) -- END
+
+  ## 2025-10-09
 - Initialized policies folder and starter files.
