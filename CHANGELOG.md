@@ -1,6 +1,11 @@
 # Changelog
 
   ## 2025-10-09 — Privacy Policy
+  *   Removed Title
+
+  ###### Updated by Josh (Privacy Policy) -- END
+
+  ## 2025-10-09 — Privacy Policy
   *   Added our current policy to GitHub
 
   ###### Updated by Josh (Privacy Policy) -- END
