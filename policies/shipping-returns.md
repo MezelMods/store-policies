@@ -1,5 +1,6 @@
 # Shipping & Returns
 
-_Last updated: 2025-10-09_
+  _Last updated: 2025-10-09_
 
-Your policy text here.
+  <p>Returns happen. Here is how we work returns and exchanges. We will:</p><ul><li>Gladly exchange&nbsp;an item if you find&nbsp;it to be defective.&nbsp;And PLEASE do not attempt repair as often this can cause more issues!</li><li>Absolutely replace items damaged during shipment but PLEASE&nbsp;do not&nbsp;discard its original packaging!&nbsp;</li><li>Happily&nbsp;issue you a refund&nbsp;for the cost of&nbsp;the item (minus return shipping plus 5% transaction fee) if you change your mind or if you ordered the wrong item within 45 days of receiving it.&nbsp;</li></ul><p>In all of the above cases, please <a rel="noopener noreferrer" href="mailto:support@mezelmods.com" target="_blank">email us</a>&nbsp;or <a rel="noopener noreferrer" href="/pages/contact-us" target="_blank">use our contact form</a> to initiate your return. Please include the following information in the request for return/exchange:</p><ol><li>Order name and order number</li><li>Item(s) you are seeking to return</li><li>In the case of damage or defect, please include a photo of the item&nbsp;</li></ol><p>Once your return is received, your refund or exchange will be processed, and a credit (if applicable) will automatically be applied to your credit card or original method of payment.</p>
+  
