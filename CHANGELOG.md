@@ -1,5 +1,10 @@
 # Changelog
 
+  ## 2026-06-19 — Mezel Mods Return Policy
+  *   Added account link
+
+  ###### Updated by JOSH (Mezel Mods Return Policy) -- END
+
   ## 2026-06-19 — Contact Info
   *   Added Self-Serve link
 
