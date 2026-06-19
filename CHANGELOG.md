@@ -1,5 +1,10 @@
 # Changelog
 
+  ## 2026-06-19 — Contact Info
+  *   Added Self-Serve link
+
+  ###### Updated by JOSH (Contact Info) -- END
+
   ## 2026-06-19 — Mezel Mods Return Policy
   *   Fixed formatting
 *   Added Self Serve to header
