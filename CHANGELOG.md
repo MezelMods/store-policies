@@ -1,5 +1,7 @@
 # Changelog
 
+  ## 2026-06-19 — Shipping Policy
+  *   Phrasings
   ## 2026-06-18 — Shipping Policy
   *   Added Shipping Policy to GitHub
 
