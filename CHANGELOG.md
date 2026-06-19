@@ -1,11 +1,10 @@
 # Changelog
 
-  ## 2026-06-19 — Shipping Policy
-  *   Phrasings
-  ## 2026-06-18 — Shipping Policy
-  *   Added Shipping Policy to GitHub
+  ## 2026-06-19 — Mezel Mods Return Policy
+  *   Fixed formatting
+*   Added Self Serve to header
 
-  ###### Updated by JOSH (Shipping Policy) -- END
+  ###### Updated by JOSH (Mezel Mods Return Policy) -- END
 
   ## 2025-10-09 — Terms Of Service
   *   Added our current policy to GitHub
