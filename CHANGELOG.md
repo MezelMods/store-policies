@@ -1,5 +1,10 @@
 # Changelog
 
+  ## 2026-06-18 — Shipping Policy
+  *   Added Shipping Policy to GitHub
+
+  ###### Updated by JOSH (Shipping Policy) -- END
+
   ## 2025-10-09 — Terms Of Service
   *   Added our current policy to GitHub
 
