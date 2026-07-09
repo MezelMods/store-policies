@@ -1,5 +1,10 @@
 # Changelog
 
+  ## 2026-07-09 — Mezel Mods Return Policy
+  *   Changed upfront overview along with warranty period
+
+  ###### Updated by Kristin (Mezel Mods Return Policy) -- END
+
   ## 2026-06-19 — Mezel Mods Return Policy
   *   Added account link
 
