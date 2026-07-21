@@ -1,5 +1,10 @@
 # Changelog
 
+  ## 2026-07-21 — Mezel Mods Return Policy
+  *   Added photo to self serve
+
+  ###### Updated by JOSH (Mezel Mods Return Policy) -- END
+
   ## 2026-07-09 — Mezel Mods Return Policy
   *   Changed upfront overview along with warranty period
 
