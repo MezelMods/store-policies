@@ -1,5 +1,10 @@
 # Changelog
 
+  ## 2026-08-18 — Mezel Mods Return Policy
+  *   new photo
+
+  ###### Updated by JOSH (Mezel Mods Return Policy) -- END
+
   ## 2026-07-21 — Mezel Mods Return Policy
   *   Added photo to self serve
 
